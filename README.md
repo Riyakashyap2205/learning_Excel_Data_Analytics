@@ -5,9 +5,6 @@
 - Weekends showed peak interaction
 - Hashtags increased reach by 20%
 
- 📈 Dashboard
-(Add screenshot here)
-
  🚀 What I Learned
 - Data cleaning techniques
 - Creating dashboards in Excel
